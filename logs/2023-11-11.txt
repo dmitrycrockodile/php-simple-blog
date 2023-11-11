@@ -7,3 +7,7 @@
 10:38:36;::1;/course/hw/articles/36;http://localhost/course/hw/
 10:38:38;::1;/course/hw/articles/33;http://localhost/course/hw/
 10:41:35;::1;/course/hw/articles/36;http://localhost/course/hw/
+10:49:05;::1;/course/hw/articles/37;http://localhost/course/hw/add
+10:49:39;::1;/course/hw/articles/38;http://localhost/course/hw/add
+10:49:42;::1;/course/hw/articles/38;http://localhost/course/hw/add
+10:52:14;::1;/course/hw/articles/39;http://localhost/course/hw/add

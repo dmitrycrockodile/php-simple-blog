@@ -6,7 +6,7 @@
    }
    
    $cats = categoryAll();
-   
+
    if($_SERVER['REQUEST_METHOD'] === 'POST') {
       $fields['title'] = trim($_POST['title']);
       $fields['content'] = trim($_POST['content']);
@@ -23,7 +23,9 @@
          header("Location: articles/$id");
          exit();
       } else {
-         $fields = ['title' => '', 'content' => '', 'id_cat' => ''];
+         $fields['title'] = trim($_POST['title']);
+         $fields['content'] = trim($_POST['content']);
+         $fields['id_cat'] = (int)$_POST['id_cat'];
       }
    }
 

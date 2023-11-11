@@ -72,8 +72,8 @@
          $errors[] = 'Title must contain minimum 2 characters!';
       }
 
-      if ($textLen < 10 || $textLen > 140) {
-         $errors[] = 'Content must contain minimum 10 characters and maximum 140!';
+      if ($textLen < 10) {
+         $errors[] = 'Content must contain minimum 10 characters!';
       }
 
       $fields['title'] = htmlspecialchars($fields['title']);
