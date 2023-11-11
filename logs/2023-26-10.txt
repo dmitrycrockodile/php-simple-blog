@@ -1,0 +1,5 @@
+10:32:49;::1;/course/hw/article.php?id=7;http://localhost/course/hw/index.php
+10:32:55;::1;/course/hw/article.php?id=7;http://localhost/course/hw/index.php
+10:32:57;::1;/course/hw/article.php?id=5;http://localhost/course/hw/index.php
+10:32:58;::1;/course/hw/article.php?id=4;http://localhost/course/hw/index.php
+10:33:00;::1;/course/hw/article.php?id=3;http://localhost/course/hw/index.php

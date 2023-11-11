@@ -1,0 +1,6 @@
+10:13:36;::1;/course/hw/index.php?id=10&c=article;http://localhost/course/hw/index.php
+10:15:11;::1;/course/hw/index.php?id=10&c=article;http://localhost/course/hw/index.php
+10:31:05;::1;/course/hw/index.php?id=10&c=article;http://localhost/course/hw/index.php
+10:31:08;::1;/course/hw/index.php?id=3&c=article;http://localhost/course/hw/index.php
+10:31:10;::1;/course/hw/index.php?id=4&c=article;http://localhost/course/hw/index.php
+10:52:08;::1;/course/hw/index.php?id=10&c=article;http://localhost/course/hw/

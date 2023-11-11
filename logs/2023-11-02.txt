@@ -1,0 +1,2 @@
+08:31:13;::1;/course/hw/index.php?id=21&c=article;http://localhost/course/hw/index.php
+08:31:34;::1;/course/hw/index.php?id=20&c=article;http://localhost/course/hw/index.php

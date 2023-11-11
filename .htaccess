@@ -1,0 +1,22 @@
+# Включает модуль переписывания адресов 
+RewriteEngine on
+
+# Включает переписывание URL только если файл, к которому идёт обращение не существует
+RewriteCond %{REQUEST_FILENAME} !-f
+# Rewrite all other URLs to index.php?[URL]
+# Переписывает все URL запросы в index.php с параметром querysystemurl в который будет попадать исходный Url
+# [QSA] - флаг Query String Append, который позволяет сохранить параметры запроса в querysystemurl и добавить туда новые
+RewriteRule .* index.php?querysystemurl=$0 [QSA]
+
+# Запрещает пользователю доступ через адресную строку к директориям проекта 
+Options -Indexes
+
+# Запрещает доступ ко всем файлам формата .php и .txt
+<FilesMatch "\.(php|txt)$">
+Deny from all
+</FilesMatch>
+
+# Даёт доступ к файлам index.php
+<FilesMatch "^index.(php)$">
+Allow from all
+</FilesMatch>

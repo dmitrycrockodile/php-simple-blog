@@ -1,0 +1,10 @@
+08:29:14;::1;/course/hw/index.php?id=21&c=article;http://localhost/course/hw/index.php
+08:30:17;::1;/course/hw/index.php?id=21&c=article;http://localhost/course/hw/index.php
+09:25:50;::1;/course/hw/index.php?id=21&c=article;http://localhost/course/hw/index.php
+09:25:52;::1;/course/hw/index.php?id=20&c=article;http://localhost/course/hw/index.php
+09:25:54;::1;/course/hw/index.php?id=20&c=article;http://localhost/course/hw/index.php
+09:25:58;::1;/course/hw/index.php?id=18&c=article;http://localhost/course/hw/index.php
+09:25:59;::1;/course/hw/index.php?id=18&c=article;http://localhost/course/hw/index.php
+09:30:44;::1;/course/hw/index.php?id=18&c=article;http://localhost/course/hw/index.php
+09:31:16;::1;/course/hw/index.php?id=19&c=article;http://localhost/course/hw/index.php
+09:31:23;::1;/course/hw/index.php?id=21&c=article;http://localhost/course/hw/index.php
