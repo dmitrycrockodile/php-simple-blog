@@ -1,2 +1,9 @@
 09:41:33;::1;/course/hw/articles/33;http://localhost/course/hw/add
 09:42:53;::1;/course/hw/articles/36;http://localhost/course/hw/add
+10:38:19;::1;/course/hw/articles/33;http://localhost/course/hw/
+10:38:29;::1;/course/hw/articles/33;http://localhost/course/hw/
+10:38:31;::1;/course/hw/articles/36;http://localhost/course/hw/
+10:38:32;::1;/course/hw/articles/28;http://localhost/course/hw/
+10:38:36;::1;/course/hw/articles/36;http://localhost/course/hw/
+10:38:38;::1;/course/hw/articles/33;http://localhost/course/hw/
+10:41:35;::1;/course/hw/articles/36;http://localhost/course/hw/

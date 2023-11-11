@@ -4,5 +4,6 @@ $cats = categoryAll();
 
 $pageTitle = 'All Categories';
 $pageContent = template('cats/v_all', [
-   'cats' => $cats
+   'cats' => $cats,
+   'isAdmin' => $isAdmin,
 ]);
