@@ -3,7 +3,7 @@
 
 	$id = (int)URL_PARAMS['id'];
 	$article = articleSelect($id) ?? null;
-	$isAuthor = $article['id_user'] === $user['id_user'];
+	$isAuthor = $article['id_user'] === $user['id_user'] || $user['status'] === 'admin';
 	
 	$article['cat'] = categoryOne($article['id_cat']);
 	$hasArticle = ($article !== null);
