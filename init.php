@@ -1,7 +1,7 @@
 <?php
 
 const HOST = 'http://localhost';
-const BASE_URL = '/course/hw/';
+const BASE_URL = '/php-mini-blog/';
 
 const DB_HOST = 'localhost';
 const DB_NAME = 'my_blog';
